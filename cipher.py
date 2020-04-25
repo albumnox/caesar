@@ -1,5 +1,5 @@
 #импорт нужных модулей
-import numpy as cp
+import cupy as cp
 import argparse
 
 #функция преобразования текста в вектор cupy, который хранится на GPU
